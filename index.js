@@ -64,7 +64,7 @@ inquirer.prompt([
     },
 ]) 
 .then(answers=>{
-    fs.writeFileSync("log.txt", `
+    fs.writeFileSync("./dist/README.md", `
     # ${answers.title}
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
