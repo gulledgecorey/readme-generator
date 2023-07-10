@@ -1,5 +1,5 @@
 
-    # cool
+    # README-Generator
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
 
     ## Table of Contents
@@ -10,26 +10,26 @@
 - [License](#License)
 
 ## Description
-f;bj
+Project was created to help others generate a professional README using by using the power of node!
 
 ## Installation
-rjn
+Run node install inquirer.
 
 ## Usage
-crj
+First type in 'node index.js' then answer each question that prompts you once you answer all of them a sample file should be added with a mock up README.
 
 ## Contribution(s)
-rjfr
+ME
 
 ## Questions
-fuf@dbu.corr
+coreygulledge35@gmail.com
 
-https://github.com/fbf
+https://github.com/gulledgecorey
 
 ## License
 MIT
 
 
 ## Test
-rfn
+N/A
     
